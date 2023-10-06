@@ -27,6 +27,26 @@ https://github.com/yumemi-inc/flutter-training-template
 2、fvmのセットアップ (参考資料：https://zenn.dev/altiveinc/articles/flutter-version-management)  
 ２、`make run`  
 
+# フォルダ構成
+
+```
+- common
+  - constants
+- data
+  - api
+  - model
+  - repository
+  - usecase
+- ui
+  - component
+  - home
+  - weather
+- utils
+- main.dart
+
+```
+
+
 # アーキテクチャ図
 
 https://github.com/iseruuuuu/flutter_yumemi_training_app/blob/feature/new_session_8/ARCHITECTURE.md
